@@ -59,6 +59,7 @@ plt.show()
 ```
 
 ### OUTPUT:
+
 Original Time series data:
 <img width="810" height="190" alt="image" src="https://github.com/user-attachments/assets/97c91507-b330-43e8-81ed-da6665f4c373" />
 
