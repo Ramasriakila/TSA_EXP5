@@ -60,7 +60,8 @@ plt.show()
 
 ### OUTPUT:
 
-Original Time series data:
+ORGINAL TIME SERIES DATA:
+
 <img width="810" height="190" alt="image" src="https://github.com/user-attachments/assets/97c91507-b330-43e8-81ed-da6665f4c373" />
 
 TREND PLOT:
